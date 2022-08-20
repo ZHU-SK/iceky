@@ -2,9 +2,9 @@
 # ICON Settings 图标设置
 # ---------------------------------------------------------------
 
-favicon: 
-avatar: 
-apple_icon:
+favicon: /img/fluid.jpeg
+avatar: /img/fluid.jpeg
+apple_icon:/img/fluid.jpeg
   # iPhone 57x57 
   iphone: 
   # iPad 72x72
@@ -27,9 +27,9 @@ schemes: m3
 fonts: LXGW
 
 # Random Pictures
-random_pic_switch: true
+random_pic_switch: false
 random_pics: 19
-random_thumbnail: ../img/random/randompic-
+random_thumbnail: /img/random/randompic-
 
 # ---------------------------------------------------------------
 # Header and Nav Settings 页眉、导航和封面设置
